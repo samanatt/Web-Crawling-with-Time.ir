@@ -39,7 +39,7 @@ shamsi      | ghamari     | miladi     | Event Title                       | Hol
 
 ```
 
-✅ Use Cases
+## ✅ Use Cases
 Persian calendar apps (Android/iOS/web)
 
 Holiday-based scheduling systems
@@ -50,7 +50,7 @@ Time-series analysis of public holidays
 
 Visualization dashboards for Iranian events
 
-📁 File Format
+## 📁 File Format
 The main data file is provided as:
 
 holiday_data.xlsx (Excel format with one sheet: Sheet1)
@@ -63,7 +63,7 @@ JSON
 
 SQLite
 
-⚠️ Notes
+## ⚠️ Notes
 Some dates have multiple events on the same day.
 
 This dataset is focused on the year 1404 (March 2025 – March 2026 Gregorian).
