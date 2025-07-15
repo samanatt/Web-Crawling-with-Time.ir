@@ -35,3 +35,38 @@ shamsi      | ghamari     | miladi     | Event Title                       | Hol
 1404/01/01  | 1446/9/21   | 2025/03/21 | جشن نوروز/جشن سال نو              |    1    |   0
 1404/01/01  | 1446/9/21   | 2025/03/21 | روز جهانی نوروز                   |    0    |   2
 1404/01/02  | 1446/9/22   | 2025/03/22 | شهادت حضرت علی (ع)                |    1    |   1
+
+
+```
+
+✅ Use Cases
+Persian calendar apps (Android/iOS/web)
+
+Holiday-based scheduling systems
+
+Cultural or religious event tracking
+
+Time-series analysis of public holidays
+
+Visualization dashboards for Iranian events
+
+📁 File Format
+The main data file is provided as:
+
+holiday_data.xlsx (Excel format with one sheet: Sheet1)
+
+If needed, we can also provide exports in:
+
+CSV
+
+JSON
+
+SQLite
+
+⚠️ Notes
+Some dates have multiple events on the same day.
+
+This dataset is focused on the year 1404 (March 2025 – March 2026 Gregorian).
+
+Events are in Persian language for authenticity and cultural relevance.
+
